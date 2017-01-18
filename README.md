@@ -31,4 +31,4 @@
 >Good luck!
 
 - open and run run_analysis.R
-- It should download and generate Cleandata.txt tidy file as output.
+- It should download input data and generate Cleandata.txt tidy file as output.
